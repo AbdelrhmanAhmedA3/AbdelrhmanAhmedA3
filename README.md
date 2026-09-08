@@ -80,3 +80,10 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 │  Performance            →  Fast User Experience │
 │                                                 │
 └─────────────────────────────────────────────────┘
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AbdelrhmanAhmedA3/AbdelrhmanAhmedA3/output/github-contribution-grid-snake.gif"
+    alt="GitHub Contribution Snake"
+  />
+</p>
