@@ -38,7 +38,17 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 ### Tools & Workflow
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,jira,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,cursor" />
+</p>
+
+<p>
+  <a href="https://claude.com/">
+    <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  </a>
+
+  <a href="https://antigravity.google/">
+    <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
+  </a>
 </p>
 
 ---
@@ -81,7 +91,7 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
-
+## 🐍 GitHub Contribution Snake
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/AbdelrhmanAhmedA3/AbdelrhmanAhmedA3/output/github-contribution-grid-snake.gif"
