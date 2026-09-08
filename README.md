@@ -68,7 +68,7 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 
 ```text
 ┌─────────────────────────────────────────────────┐
-│                Front-End Development             │
+│                Front-End Development            │
 ├─────────────────────────────────────────────────┤
 │                                                 │
 │  Angular / React        →  Modern Web Apps      │
