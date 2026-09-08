@@ -80,6 +80,7 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 │  Performance            →  Fast User Experience │
 │                                                 │
 └─────────────────────────────────────────────────┘
+```
 
 <p align="center">
   <img
