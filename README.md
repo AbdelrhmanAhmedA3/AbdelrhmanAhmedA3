@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./header-wavy-smooth.gif"
+       alt="Abdelrahman Ahmed - Senior Frontend Developer"
+       width="100%">
+</p>
 # 👋 Hi, I'm Abdelrahman Ahmed
 
 ### Front-End Developer | Angular & React Specialist
