@@ -158,7 +158,7 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 ##
 <p align="center">
   <img
-    src="./assets/footer.gif"
+    src="./assets/footer.png"
     alt="Thanks for Visiting"
     width="100%"
   />
