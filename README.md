@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanAhmedA3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/static/v1?label=Profile%20Views&message=Welcome&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
