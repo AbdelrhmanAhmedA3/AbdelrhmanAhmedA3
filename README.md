@@ -155,3 +155,11 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
     alt="GitHub Contribution Snake"
   />
 </p>
+##
+<p align="center">
+  <img
+    src="./assets/footer.gif"
+    alt="Thanks for Visiting"
+    width="100%"
+  />
+</p>
