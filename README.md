@@ -77,15 +77,18 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAhmedA3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAhmedA3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbdelrhmanAhmedA3&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdelrhmanAhmedA3&theme=github_dark" alt="Most Used Languages" />
 </p>
-
-### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrhmanAhmedA3&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelrhmanAhmedA3&theme=github_dark" alt="GitHub Contribution Activity" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbdelrhmanAhmedA3&theme=github_dark&utcOffset=2" alt="Productive Time" />
+</p>
+
 
 ---
 
