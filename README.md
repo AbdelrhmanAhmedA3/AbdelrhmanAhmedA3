@@ -1,64 +1,57 @@
-<p align="center">
-  <img src="./assets/header.gif"
-       alt="Abdelrahman Ahmed - Senior Frontend Developer"
-       width="100%">
+ <p align="center">
+  <img src="./assets/header.gif" alt="Abdelrahman Ahmed - Senior Frontend Developer" width="100%" />
 </p>
-# 👋 Hi, I'm Abdelrahman Ahmed
 
-### Front-End Developer | Angular & React Specialist
+<h1 align="center">Hi 👋, I'm Abdelrahman Ahmed</h1>
 
-I'm a dedicated **Front-End Developer with 5+ years of experience** building modern, scalable, and interactive web applications.
+<h3 align="center">Senior Frontend Developer | Angular & React Specialist</h3>
 
-I specialize in **Angular and React**, with a strong focus on clean architecture, reusable components, responsive UI, performance optimization, and great user experiences.
+<p align="center">
+  Building modern, scalable, and high-performance web applications.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdelrhmanAhmedA3&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 **5+ years** of professional Front-End Development experience
-- ⚡ Specialized in **Angular & React**
-- 🧩 Experienced in building **scalable and reusable UI components**
-- 🔌 Experienced in integrating and working with **RESTful APIs**
-- 📈 Focused on **performance optimization** and improving user experience
-- 🤝 Comfortable working in collaborative **Agile/Scrum teams**
-- 🌱 Always learning and keeping up with modern Front-End technologies
-- 🎯 Passionate about writing clean, maintainable, and production-ready code
+- 💼 Front-End Developer with **5+ years of experience**
+- ⚡ Specialized in **Angular, React, and TypeScript**
+- 🧩 Building scalable applications with reusable components and clean architecture
+- 🎨 Experienced with Angular Material, PrimeNG, Bootstrap, and Tailwind CSS
+- 🔌 Integrating RESTful APIs and handling asynchronous data with RxJS
+- 🚀 Focused on performance optimization, responsive design, and user experience
+- 🤝 Experienced in collaborative Agile/Scrum workflows
+- 🌱 Always learning and exploring modern development tools
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-End
-
+### Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,rxjs,html,css,bootstrap,tailwind"
-       alt="Angular, Angular Material, PrimeNG, React, TypeScript, JavaScript, RxJS, HTML5, CSS3, Bootstrap, Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,rxjs,html,css,sass,bootstrap,tailwind" alt="Frontend Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/Angular%20Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
   <img src="https://img.shields.io/badge/PrimeNG-06B6D4?style=for-the-badge&logo=primeng&logoColor=white" alt="PrimeNG" />
-</p>
-
-
-### UI & Styling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
 
 ### Tools & Workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Development Tools" />
 </p>
 
 <p align="center">
   <a href="https://claude.com/">
     <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   </a>
-
   <a href="https://antigravity.google/">
     <img src="https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity" />
   </a>
@@ -66,100 +59,60 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 
 ---
 
-## 💡 Core Skills
+## 💡 Core Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,rxjs,html,css,bootstrap,tailwind" alt="Frontend Technologies" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,jira" alt="Development Tools" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,angular,react,ts" alt="UI Development" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
-  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
-  <img src="https://img.shields.io/badge/Component--Based_Architecture-7C3AED?style=for-the-badge&logo=angular&logoColor=white" alt="Component-Based Architecture" />
-  <img src="https://img.shields.io/badge/Performance_Optimization-16A34A?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance Optimization" />
-  <img src="https://img.shields.io/badge/Reusable_UI_Components-DB2777?style=for-the-badge&logo=storybook&logoColor=white" alt="Reusable UI Components" />
-</p>
-
+| Area | Technologies & Focus |
+|---|---|
+| **Modern Web Apps** | Angular, React, TypeScript |
+| **Reactive Programming** | RxJS, asynchronous data streams |
+| **UI Development** | Angular Material, PrimeNG, reusable components |
+| **Styling** | SCSS, Bootstrap, Tailwind CSS, responsive design |
+| **API Integration** | RESTful APIs, HTTP services |
+| **Architecture** | Component-based architecture, maintainable code |
+| **Performance** | Rendering optimization, loading speed, user experience |
+| **Collaboration** | Git, GitHub, Jira, Agile/Scrum |
 
 ---
 
-## 📌 What I Do
+## 📊 GitHub Statistics
 
-
-<h2 align="center">🚀 Front-End Development</h2>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th align="left">Technology</th>
-      <th align="left">Expertise</th>
-      <th align="left">Focus</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🅰️ Angular / ⚛️ React</td>
-      <td>Modern Web Apps</td>
-      <td>Reusable Components & Architecture</td>
-    </tr>
-    <tr>
-      <td>🔷 TypeScript</td>
-      <td>Scalable Code</td>
-      <td>Type Safety & Maintainability</td>
-    </tr>
-    <tr>
-      <td>🔄 RxJS</td>
-      <td>Reactive Systems</td>
-      <td>Async Data & Streams</td>
-    </tr>
-    <tr>
-      <td>🌐 REST APIs</td>
-      <td>Data Integration</td>
-      <td>HTTP Services & API Handling</td>
-    </tr>
-    <tr>
-      <td>🎨 SCSS / Tailwind CSS</td>
-      <td>Modern UI</td>
-      <td>Responsive & Consistent Design</td>
-    </tr>
-    <tr>
-      <td>🧩 Angular Material / PrimeNG</td>
-      <td>UI Component Libraries</td>
-      <td>Accessible & Reusable Components</td>
-    </tr>
-    <tr>
-      <td>🌿 Git / GitHub</td>
-      <td>Team Collaboration</td>
-      <td>Version Control & Code Reviews</td>
-    </tr>
-    <tr>
-      <td>⚡ Performance Optimization</td>
-      <td>Fast User Experience</td>
-      <td>Loading Speed & Rendering</td>
-    </tr>
-  </tbody>
-</table>
-
-## 🐍 GitHub Contribution Snake
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AbdelrhmanAhmedA3/AbdelrhmanAhmedA3/output/github-contribution-grid-snake.gif"
-    alt="GitHub Contribution Snake"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdelrhmanAhmedA3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrhmanAhmedA3&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
-<hr/>
+
+### 📈 Contribution Activity
+
 <p align="center">
-  <img
-    src="./assets/footer.png"
-    alt="Thanks for Visiting"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrhmanAhmedA3&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" width="100%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdelrhmanAhmedA3/AbdelrhmanAhmedA3/output/github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/AbdelrhmanAhmedA3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- Add your LinkedIn profile URL below -->
+  <!--
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  -->
+</p>
+
+<hr />
+
+<p align="center">
+  <img src="./assets/footer.png" alt="Thanks for Visiting" width="100%" />
 </p>
