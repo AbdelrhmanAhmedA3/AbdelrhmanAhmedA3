@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header-wavy-smooth.gif"
+  <img src="./header.gif"
        alt="Abdelrahman Ahmed - Senior Frontend Developer"
        width="100%">
 </p>
