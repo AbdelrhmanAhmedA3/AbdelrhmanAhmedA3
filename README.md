@@ -30,9 +30,12 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 
 ### Front-End
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,rxjs" />
+  <img src="https://skillicons.dev/icons?i=angular,material,primeng,react,ts,js,rxjs,html,css,bootstrap,tailwind"
+       alt="Angular, Angular Material, PrimeNG, React, TypeScript, JavaScript, RxJS, HTML5, CSS3, Bootstrap, Tailwind CSS" />
 </p>
+
 
 ### UI & Styling
 
