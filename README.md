@@ -148,8 +148,6 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
   </tbody>
 </table>
 
-
-```
 ## 🐍 GitHub Contribution Snake
 <p align="center">
   <img
