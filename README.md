@@ -34,7 +34,10 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,ts,js,rxjs,html,css,bootstrap,tailwind"
        alt="Angular, Angular Material, PrimeNG, React, TypeScript, JavaScript, RxJS, HTML5, CSS3, Bootstrap, Tailwind CSS" />
-   <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
   <img src="https://img.shields.io/badge/PrimeNG-06B6D4?style=for-the-badge&logo=primeng&logoColor=white" alt="PrimeNG" />
 </p>
 
