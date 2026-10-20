@@ -30,23 +30,23 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 
 ### Front-End
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,rxjs" />
 </p>
 
 ### UI & Styling
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
 
 ### Tools & Workflow
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,cursor" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://claude.com/">
     <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
   </a>
