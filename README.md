@@ -61,16 +61,58 @@
 
 ## 💡 Core Expertise
 
-| Area | Technologies & Focus |
-|---|---|
-| **Modern Web Apps** | Angular, React, TypeScript |
-| **Reactive Programming** | RxJS, asynchronous data streams |
-| **UI Development** | Angular Material, PrimeNG, reusable components |
-| **Styling** | SCSS, Bootstrap, Tailwind CSS, responsive design |
-| **API Integration** | RESTful APIs, HTTP services |
-| **Architecture** | Component-based architecture, maintainable code |
-| **Performance** | Rendering optimization, loading speed, user experience |
-| **Collaboration** | Git, GitHub, Jira, Agile/Scrum |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Technology</th>
+      <th align="left">Expertise</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🅰️ Angular / ⚛️ React</td>
+      <td>Modern Web Apps</td>
+      <td>Reusable Components & Architecture</td>
+    </tr>
+    <tr>
+      <td>🔷 TypeScript</td>
+      <td>Scalable Code</td>
+      <td>Type Safety & Maintainability</td>
+    </tr>
+    <tr>
+      <td>🔄 RxJS</td>
+      <td>Reactive Systems</td>
+      <td>Async Data & Streams</td>
+    </tr>
+    <tr>
+      <td>🌐 REST APIs</td>
+      <td>Data Integration</td>
+      <td>HTTP Services & API Handling</td>
+    </tr>
+    <tr>
+      <td>🎨 SCSS / Tailwind CSS</td>
+      <td>Modern UI</td>
+      <td>Responsive & Consistent Design</td>
+    </tr>
+    <tr>
+      <td>🧩 Angular Material / PrimeNG</td>
+      <td>UI Component Libraries</td>
+      <td>Accessible & Reusable Components</td>
+    </tr>
+    <tr>
+      <td>🌿 Git / GitHub</td>
+      <td>Team Collaboration</td>
+      <td>Version Control & Code Reviews</td>
+    </tr>
+    <tr>
+      <td>⚡ Performance Optimization</td>
+      <td>Fast User Experience</td>
+      <td>Loading Speed & Rendering</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
