@@ -93,20 +93,62 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 
 ## 📌 What I Do
 
-```text
-┌─────────────────────────────────────────────────┐
-│                Front-End Development            │
-├─────────────────────────────────────────────────┤
-│                                                 │
-│  Angular / React        →  Modern Web Apps      │
-│  TypeScript             →  Scalable Code        │
-│  RxJS                   →  Reactive Systems     │
-│  REST APIs              →  Data Integration     │
-│  SCSS / Tailwind        →  Modern UI            │
-│  Git / GitHub           →  Team Collaboration   │
-│  Performance            →  Fast User Experience │
-│                                                 │
-└─────────────────────────────────────────────────┘
+
+<h2 align="center">🚀 Front-End Development</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="left">Technology</th>
+      <th align="left">Expertise</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🅰️ Angular / ⚛️ React</td>
+      <td>Modern Web Apps</td>
+      <td>Reusable Components & Architecture</td>
+    </tr>
+    <tr>
+      <td>🔷 TypeScript</td>
+      <td>Scalable Code</td>
+      <td>Type Safety & Maintainability</td>
+    </tr>
+    <tr>
+      <td>🔄 RxJS</td>
+      <td>Reactive Systems</td>
+      <td>Async Data & Streams</td>
+    </tr>
+    <tr>
+      <td>🌐 REST APIs</td>
+      <td>Data Integration</td>
+      <td>HTTP Services & API Handling</td>
+    </tr>
+    <tr>
+      <td>🎨 SCSS / Tailwind CSS</td>
+      <td>Modern UI</td>
+      <td>Responsive & Consistent Design</td>
+    </tr>
+    <tr>
+      <td>🧩 Angular Material / PrimeNG</td>
+      <td>UI Component Libraries</td>
+      <td>Accessible & Reusable Components</td>
+    </tr>
+    <tr>
+      <td>🌿 Git / GitHub</td>
+      <td>Team Collaboration</td>
+      <td>Version Control & Code Reviews</td>
+    </tr>
+    <tr>
+      <td>⚡ Performance Optimization</td>
+      <td>Fast User Experience</td>
+      <td>Loading Speed & Rendering</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ```
 ## 🐍 GitHub Contribution Snake
 <p align="center">
