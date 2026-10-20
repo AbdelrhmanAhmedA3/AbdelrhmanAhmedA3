@@ -60,22 +60,26 @@ I specialize in **Angular and React**, with a strong focus on clean architecture
 
 ## 💡 Core Skills
 
-- **Angular**
-- **React**
-- **TypeScript**
-- **JavaScript**
-- **RxJS**
-- **HTML5**
-- **CSS3 / SCSS**
-- **Bootstrap**
-- **Tailwind CSS**
-- **RESTful APIs**
-- **Responsive Web Design**
-- **Git & GitHub**
-- **Jira**
-- **Component-Based Architecture**
-- **Performance Optimization**
-- **Reusable UI Components**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,rxjs,html,css,bootstrap,tailwind" alt="Frontend Technologies" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,jira" alt="Development Tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,react,ts" alt="UI Development" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Web Design" />
+  <img src="https://img.shields.io/badge/Component--Based_Architecture-7C3AED?style=for-the-badge&logo=angular&logoColor=white" alt="Component-Based Architecture" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-16A34A?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance Optimization" />
+  <img src="https://img.shields.io/badge/Reusable_UI_Components-DB2777?style=for-the-badge&logo=storybook&logoColor=white" alt="Reusable UI Components" />
+</p>
+
 
 ---
 
